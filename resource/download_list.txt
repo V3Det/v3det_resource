@@ -1,0 +1,2 @@
+https://github.com/V3Det/v3det_resource/raw/main/resource/image2url_train.json
+https://github.com/V3Det/v3det_resource/raw/main/resource/image2url_val.json
