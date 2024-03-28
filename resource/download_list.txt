@@ -1,3 +1,2 @@
 https://raw.githubusercontent.com/V3Det/v3det_resource/main/resource/v3det_2023_v1_image2url_train.json
-https://raw.githubusercontent.com/V3Det/v3det_resource/main/resource/v3det_2023_v1_image2url_test.json
 https://raw.githubusercontent.com/V3Det/v3det_resource/main/resource/v3det_2023_v1_image2url_val.json
