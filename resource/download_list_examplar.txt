@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/V3Det/v3det_resource/main/resource/v3det_2023_v1_image2url_examplar.json
